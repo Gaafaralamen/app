@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+
+}
+header{
+    /* background-color: rgb(185, 60, 60);
+    height: 40px;
+    width: 2000px;
+    /* max-width: 500px; */
+    /* min-width: 300px; */
+    background-color: rgb(145, 14, 14);
+    color: white;
+    padding: 15px 0px 15px 15px ;
+
+}
+body{
+    background: url(/ggg.png);
+    background-size: 20% ;
+    background-repeat: no-repeat;
+    background-position-x:95% ;
+    background-position-y:10% ;
+    background-attachment: fixed;
+    /* background-color: rgb(142, 70, 12); */
+
+}
+article h3{
+    background-color: rgb(190, 84, 39);
+    color: white;
+    padding: 12px;
+
+}
+
+article{
+    width: 70%;
+    margin: 2%;
+}
+video{
+    
+}
